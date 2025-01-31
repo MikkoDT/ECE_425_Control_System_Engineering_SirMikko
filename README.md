@@ -2,4 +2,4 @@
 ## COURSE INFORMATION SYLLABUS (CIS)
 
 ### Course Instructor: Engr. Mikko A. De Torres
-                       Mechatronics Engineer
+###                    Mechatronics Engineer
