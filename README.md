@@ -29,7 +29,7 @@ Understanding control systems empowers students to model and characterize physic
 ### Assessment Method:
 ![image](https://github.com/user-attachments/assets/5d1d6eeb-94da-4b35-ab2d-d66300f44231)
 
-### Main Text Book: [NORMAN S. NISE, Control Systems Engineering, 6th edition, Addison McGraw-Hill, Inc., Singapore, 2000.]()
+### Main Text Book: [NORMAN S. NISE, Control Systems Engineering, 7th edition, Addison McGraw-Hill, Inc., Singapore, 2000.]()
 ### Main Hand Book: [Control System: A handbook guide to the basics of Control Systems Engineering]()
 																																
 ![image](https://github.com/user-attachments/assets/b226283b-d43f-43fb-be09-941978efcf1d)
