@@ -34,10 +34,16 @@ Understanding control systems empowers students to model and characterize physic
 																																
 ![image](https://github.com/user-attachments/assets/b226283b-d43f-43fb-be09-941978efcf1d)
 
-### Ch 1: Introduction to Control System Tools (Week 1)
+### Unit 1: [Syllabus]() Orientation & Introduction (Week 1)
+
+### Unit 2: Introduction to Control System Tools (Week 2)
 Topics:
 1. Introduction to [Scilab]()
 2. [Python]()(if applicable);
 3. [MATLAB]()(if applicable) for modeling and simulation; 
 4. And [Github]() for documentation of repositories.
 
+### Unit 3: Laboratory 1 - 1-DOF Ball Balancer -  Introduction to Control Systems Engineering (Week 2,3)
+1. 1-DOF Ball Balancer: Introduction to Control System and Application - PID Control
+2. Control System Definition and Types
+3. Control System Block Diagram Introduction
