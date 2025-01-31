@@ -14,7 +14,17 @@ Understanding control systems empowers students to model and characterize physic
 20% Final Exam																
 20% Midterm Exam																
 60% Simulated Laboratory Activities
-### Assessment Method:
 
-![image](https://github.com/user-attachments/assets/66a8e65b-3461-4670-8f5c-922fb45ac342)
-![image](https://github.com/user-attachments/assets/ae6fbd4e-562c-4d86-b9ea-6b7370aa48ac)
+### Intended Learning Outcomes (ILO):
+***ILO1	Develop and implement computational solutions using Scilab, Python, or MATLAB for modeling and simulating mechanical, electrical, and electromechanical systems. (SO2, SO9)***															
+***ILO2	Develop and Apply mathematical models to simulation tools, such as Scilab, Python, or MATLAB, to analyze and solve mechanical, electrical and electromechanical systems. (SO1, SO5)***															
+***ILO3	Analyze the time-domain and frequency-domain behavior of mechanical, electrical, and electromechanical systems to evaluate system performance and stability. (SO1, SO5)***															
+***ILO4	Communicate the results of laboratory experiments and simulations effectively through well-structured reports and presentations using GitHub for documentation. (SO7)***															
+***ILO5	Demonstrate the ability to independently utilize and integrate engineering tools and platforms, such as Scilab, MATLAB, and GitHub, for life-long learning in solving complex engineering problems. (SO9)***															
+
+### Assessment Method:
+![image](https://github.com/user-attachments/assets/5d1d6eeb-94da-4b35-ab2d-d66300f44231)
+
+### Main Text Book: [NORMAN S. NISE, Control Systems Engineering, 6th edition, Addison McGraw-Hill, Inc., Singapore, 2000.]()
+### Main Hand Book: [Control System: A handbook guide to the basics of Control Systems Engineering]()
+
