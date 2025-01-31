@@ -3,7 +3,7 @@
 ### Course Instructor: [Engr. Mikko A. De Torres](https://mikkodt.github.io/MikkoDT_Portfolio/)
 ###                    Mechatronics Engineer
 
-## COURSE INFORMATION SYLLABUS (CIS): []()
+## COURSE INFORMATION SYLLABUS (CIS): [Syllabus](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Syllabus)
 
 ### Course Rationale and Description
 Understanding control systems empowers students to model and characterize physical systems mathematically enabling him to create systems that will benefit humanity. Control systems engineering is an exciting field where you can apply your engineering talents and technical knowledge because it cuts across numerous disciplines and various functions with those disciplines. The control engineer can be found at the top level of large projects. Engaged at the actual conceptual phase in determining and implementing overall system requirements, which includes total system performance specifications, subsystem functions, and the interconnection of these functions including interface requirements, hardware and software design, test plans and procedures. A working knowledge in control systems prepares students to understand its application in robotics, process control industry and manufacturing. The course will deal mainly on the system modelling in time and frequency domain, transfer function, block diagram algebra, and signal flow graphs. This course is intended for fourth year students of Mechanical Engineering who has completed the courses Differential Equations and Basic Electronics. 
@@ -11,9 +11,9 @@ Understanding control systems empowers students to model and characterize physic
 ### Contact Hours: 
 2 hours lecture and 3 hours laboratory
 ### Criteria for Assessment:
-20% Final Exam																
-20% Midterm Exam																
-60% Simulated Laboratory Activities
+- 20% Final Exam
+- 20% Midterm Exam
+- 60% Simulated Laboratory Activities													
 
 ### Intended Learning Outcomes (ILO):
 ***ILO1	Develop and implement computational solutions using Scilab, Python, or MATLAB for modeling and simulating mechanical, electrical, and electromechanical systems. (SO2, SO9)***		
@@ -29,12 +29,12 @@ Understanding control systems empowers students to model and characterize physic
 ### Assessment Method:
 ![image](https://github.com/user-attachments/assets/5d1d6eeb-94da-4b35-ab2d-d66300f44231)
 
-### Main Text Book: [NORMAN S. NISE, Control Systems Engineering, 7th edition, Addison McGraw-Hill, Inc., Singapore, 2000.]()
-### Main Hand Book: [Control System: A handbook guide to the basics of Control Systems Engineering]()
+### Main Text Book: [NORMAN S. NISE, Control Systems Engineering, 7th edition, Addison McGraw-Hill, Inc., Singapore, 2000.](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/NORMAN%20S.%20NISE-Control%20Systems%20Engineering-6th%20edition)
+### Main Hand Book: [Control System: A handbook guide to the basics of Control Systems Engineering](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Control%20Systems%20Handbook)
 																																
 ![image](https://github.com/user-attachments/assets/b226283b-d43f-43fb-be09-941978efcf1d)
 
-### Unit 1: [Syllabus]() Orientation & Introduction (Week 1)
+### Unit 1: [Syllabus](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Syllabus) Orientation & Introduction (Week 1)
 
 
 ### Unit 2: Introduction to Control System Tools (Week 2)
