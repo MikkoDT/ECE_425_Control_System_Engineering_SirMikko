@@ -36,14 +36,21 @@ Understanding control systems empowers students to model and characterize physic
 
 ### Unit 1: [Syllabus]() Orientation & Introduction (Week 1)
 
+
 ### Unit 2: Introduction to Control System Tools (Week 2)
 Topics:
 1. Introduction to [Scilab]()
-2. [Python]()(if applicable);
-3. [MATLAB]()(if applicable) for modeling and simulation; 
+2. [Python]() (if applicable);
+3. [MATLAB]() (if applicable) for modeling and simulation; 
 4. And [Github]() for documentation of repositories.
 
 ### Unit 3: Laboratory 1 - 1-DOF Ball Balancer -  Introduction to Control Systems Engineering (Week 2,3)
-1. 1-DOF Ball Balancer: Introduction to Control System and Application - PID Control
-2. Control System Definition and Types
-3. Control System Block Diagram Introduction
+1. [1-DOF Ball Balancer](): Introduction to Control System and Application - PID Control
+2. [Control System Definition and Types]()
+3. [Control System Block Diagram Introduction]()
+
+### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5)
+1. [Physical system modeling of Translational Mass, damper and spring]()
+2. [Time Domain Modeling]()
+3. [Frequency Domain - Laplace Transform Review]()
+4. [Simulation using SCILAB]()
