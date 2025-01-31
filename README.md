@@ -34,3 +34,10 @@ Understanding control systems empowers students to model and characterize physic
 																																
 ![image](https://github.com/user-attachments/assets/b226283b-d43f-43fb-be09-941978efcf1d)
 
+### Ch 1: Introduction to Control System Tools (Week 1)
+Topics:
+1. Introduction to [Scilab]()
+2. [Python]()(if applicable);
+3. [MATLAB]()(if applicable) for modeling and simulation; 
+4. And [Github]() for documentation of repositories.
+
