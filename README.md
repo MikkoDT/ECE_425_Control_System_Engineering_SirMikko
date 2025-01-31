@@ -14,3 +14,16 @@ Understanding control systems empowers students to model and characterize physic
 20% Final Exam																
 20% Midterm Exam																
 60% Simulated Laboratory Activities
+### Assessment Method:
+Assessment Tasks (AT) Distribution						
+Code	Assessment Tasks				I/R/D	(%)
+FP	Final Project				R	20
+MP	Midterm Project				R	20
+LA1	Laboratory 1				R	13
+LA2	Laboratory 2				R	13
+LA3	Laboratory 3				R	13
+LA4	Laboratory 4				R	13
+LA5	Laboratory 5				R	8
+						
+	Total					100
+![image](https://github.com/user-attachments/assets/66a8e65b-3461-4670-8f5c-922fb45ac342)
