@@ -16,10 +16,14 @@ Understanding control systems empowers students to model and characterize physic
 60% Simulated Laboratory Activities
 
 ### Intended Learning Outcomes (ILO):
-***ILO1	Develop and implement computational solutions using Scilab, Python, or MATLAB for modeling and simulating mechanical, electrical, and electromechanical systems. (SO2, SO9)***															
-***ILO2	Develop and Apply mathematical models to simulation tools, such as Scilab, Python, or MATLAB, to analyze and solve mechanical, electrical and electromechanical systems. (SO1, SO5)***															
-***ILO3	Analyze the time-domain and frequency-domain behavior of mechanical, electrical, and electromechanical systems to evaluate system performance and stability. (SO1, SO5)***															
-***ILO4	Communicate the results of laboratory experiments and simulations effectively through well-structured reports and presentations using GitHub for documentation. (SO7)***															
+***ILO1	Develop and implement computational solutions using Scilab, Python, or MATLAB for modeling and simulating mechanical, electrical, and electromechanical systems. (SO2, SO9)***		
+
+***ILO2	Develop and Apply mathematical models to simulation tools, such as Scilab, Python, or MATLAB, to analyze and solve mechanical, electrical and electromechanical systems. (SO1, SO5)***		
+
+***ILO3	Analyze the time-domain and frequency-domain behavior of mechanical, electrical, and electromechanical systems to evaluate system performance and stability. (SO1, SO5)***			
+
+***ILO4	Communicate the results of laboratory experiments and simulations effectively through well-structured reports and presentations using GitHub for documentation. (SO7)***		
+
 ***ILO5	Demonstrate the ability to independently utilize and integrate engineering tools and platforms, such as Scilab, MATLAB, and GitHub, for life-long learning in solving complex engineering problems. (SO9)***															
 
 ### Assessment Method:
