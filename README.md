@@ -39,15 +39,15 @@ Understanding control systems empowers students to model and characterize physic
 
 ### Unit 2: Introduction to Control System Tools (Week 2)
 Topics:
-1. Introduction to [Scilab]()
-2. [Python]() (if applicable);
-3. [MATLAB]() (if applicable) for modeling and simulation; 
-4. And [Github]() for documentation of repositories.
+1. Introduction to [Scilab](https://www.scilab.org/)
+2. [Python](https://www.python.org/downloads/) (if applicable);
+3. [MATLAB](https://ww2.mathworks.cn/en/) (if applicable) for modeling and simulation; 
+4. And [Github](https://github.com/) for documentation of repositories.
 
 ### Unit 3: Laboratory 1 - 1-DOF Ball Balancer -  Introduction to Control Systems Engineering (Week 2,3)
-1. [1-DOF Ball Balancer](): Introduction to Control System and Application - PID Control
-2. [Control System Definition and Types]()
-3. [Control System Block Diagram Introduction]()
+1. [1-DOF Ball Balancer](https://www.youtube.com/watch?v=YOPTksabdbM): Introduction to Control System and Application - PID Control
+2. [Control System Definition and Types](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Introduction%20to%20Control%20System)
+3. [Control System Block Diagram Introduction - PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
 ### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5)
 1. [Physical system modeling of Translational Mass, damper and spring]()
