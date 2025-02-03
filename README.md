@@ -45,7 +45,7 @@ Topics:
 4. And [Github](https://github.com/) for documentation of repositories.
 
 ### Unit 3: Laboratory 1 - 1-DOF Ball Balancer -  Introduction to Control Systems Engineering (Week 2,3)
-1. [1-DOF Ball Balancer](https://www.youtube.com/watch?v=YOPTksabdbM): Introduction to Control System and Application - PID Control
+1. [2-DOF Ball Balancer](https://www.youtube.com/watch?v=YOPTksabdbM): Introduction to Control System and Application - PID Control
 2. [Control System Definition and Types](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Introduction%20to%20Control%20System)
 3. [Control System Block Diagram Introduction - PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
