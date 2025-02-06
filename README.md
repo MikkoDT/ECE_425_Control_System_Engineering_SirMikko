@@ -48,9 +48,10 @@ Topics:
 1. [2-DOF Ball Balancer](https://www.youtube.com/watch?v=YOPTksabdbM): Introduction to Control System and Application - PID Control
 2. [Control System Definition and Types](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Introduction%20to%20Control%20System)
 3. [Control System Block Diagram Introduction - PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
+4. [Laplace and Inverse Laplace Transform of Differential Equations and Integral Equations]()
 
 ### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5)
 1. [Physical system modeling of Translational Mass, damper and spring]()
 2. [Time Domain Modeling]()
-3. [Frequency Domain - Laplace Transform Review]()
+3. [Frequency Domain - Transfer Function]()
 4. [Simulation using SCILAB]()
