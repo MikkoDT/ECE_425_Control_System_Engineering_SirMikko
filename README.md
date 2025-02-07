@@ -52,6 +52,6 @@ Topics:
 
 ### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5)
 1. [Physical system modeling of Translational Mass, damper and spring]()
-2. [Time Domain Modeling]()
+2. [Time Domain Modeling](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Translational%20Mechanical%20System)
 3. [Frequency Domain - Transfer Function]()
-4. [Simulation using SCILAB]()
+4. [Simulation using MATLAB]()
