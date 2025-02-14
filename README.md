@@ -51,7 +51,7 @@ Topics:
 4. [Block Diagram Algebra Basics](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/blob/main/ECE_425_2024-2025/Introduction%20to%20Control%20System/Block%20Diagram%20Algebra%20Basics.pdf)
 
 ### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5)
-1. [Physical system modeling of Translational Mass, damper and spring]()
+1. [Physical system modeling of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/MATLAB_materials/Physical_Systems_Modeling)
 2. [Time Domain Modeling](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Translational%20Mechanical%20System)
 3. [Frequency Domain - Transfer Function]()
 4. [Simulation using MATLAB]()
