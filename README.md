@@ -54,3 +54,4 @@ Topics:
 1. [Time Domain Modeling of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Translational%20Mechanical%20System)
 2. [Frequency Domain - Transfer Function of Translational Mass, damper and spring]()
 3. [Physical system modeling of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/MATLAB_materials/Physical_Systems_Modeling)
+4. [Laboratory 2](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/blob/main/ECE_425_2024-2025/Laboratory_Activities/Laboratory_2.mlx)
