@@ -39,9 +39,9 @@ Understanding control systems empowers students to model and characterize physic
 
 ### Unit 2: Introduction to Control System Tools (Week 2)
 Topics:
-1. Introduction to [Scilab](https://www.scilab.org/)
+1. Introduction to [MATLAB](https://ww2.mathworks.cn/en/)
 2. [Python](https://www.python.org/downloads/) (if applicable);
-3. [MATLAB](https://ww2.mathworks.cn/en/) (if applicable) for modeling and simulation; 
+3. [SCILAB](https://www.scilab.org/) (applicable only if there is no MATLAB) for modeling and simulation; 
 4. And [Github](https://github.com/) for documentation of repositories.
 
 ### Unit 3: Laboratory 1 - 1-DOF Ball Balancer -  Introduction to Control Systems Engineering (Week 2,3)
