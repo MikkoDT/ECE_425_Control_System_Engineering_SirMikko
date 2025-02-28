@@ -52,6 +52,25 @@ Topics:
 
 ### Unit 4: Translational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 2: Translational Mechanical System: Modeling and Simulation (Week 4, 5) 
 1. [Time Domain Modeling of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Translational%20Mechanical%20System)
-2. [Frequency Domain - Transfer Function of Translational Mass, damper and spring]()
-3. [Physical system modeling of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/MATLAB_materials/Physical_Systems_Modeling)
+2. [Frequency Domain - Transfer Function of Translational Mass, damper and spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/MATLAB_materials/Physical_Systems_Modeling)
+3. [Physical system modeling of Translational Mass, damper and spring]()
 4. [Laboratory 2](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/blob/main/ECE_425_2024-2025/Laboratory_Activities/Laboratory_2.mlx)
+
+### Unit 5: Rotational Mechanical System: Physical, Time Domain and Frequency Domain - Laboratory 3: Rotational Mechanical System: Modeling and Simulation (Week 6, 7) 
+1. [Time Domain Modeling of Rotational Torque, roatational damper and rotational spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Rotational%20Mechanical%20System)
+2. [Frequency Domain - Transfer Function of Rotational Torque, roatational damper and rotational spring](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Rotational%20Mechanical%20System)
+3. [Physical system modeling of Rotational Torque, roatational damper and rotational spring]()
+4. [Laboratory 3]()
+
+### Unit 6: Rotational Gear Mechanical System: Physical, Time Domain and Frequency Domain 
+1. [Time Domain Modeling of Gear System]()
+2. [Frequency Domain - Transfer Function of Gear System]()
+3. [Physical system modeling of Gear System]()
+
+
+### Unit 7: Electrical System: Physical, Time Domain and Frequency Domain - Laboratory 4: Electrical System: Modeling and Simulation (Week 7, 8)
+1. [Time Domain Modeling of Electrical Inductance, Capacitance and Resistance](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Electrical%20System)
+2. [Frequency Domain - Transfer Function of Electrical Inductance, Capacitance and Resistance](https://github.com/MikkoDT/ECE_425_Control_System_Engineering_SirMikko/tree/main/ECE_425_2024-2025/Electrical%20System)
+3. [Physical system modeling of Electrical Inductance, Capacitance and Resistance]()
+4. [Laboratory 4]()
+
